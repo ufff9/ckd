@@ -1,13 +1,8 @@
 mlflow
 scikit-learn
-dagshub
-streamlit
-imblearn
-skopt
-numpy
-pandas
-joblib
 imbalanced-learn
 bayesian-optimization
-plotly
-scikit-optimize
+joblib
+streamlit
+dagshub
+
