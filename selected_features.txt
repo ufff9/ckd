@@ -1,0 +1,12 @@
+systolic_bp
+diastolic_bp
+serum_creatinine
+blood_urea_nitrogen
+egfr
+urine_albumin
+urine_protein
+albumin_creatinine_ratio
+phosphorus
+bicarbonate
+hemoglobin
+serum_albumin
