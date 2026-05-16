@@ -7,7 +7,6 @@ skopt
 numpy
 pandas
 joblib
-dagshub
 imbalanced-learn
 bayesian-optimization
 plotly
